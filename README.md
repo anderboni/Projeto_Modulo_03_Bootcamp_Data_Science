@@ -18,7 +18,7 @@ As tabelas em CSV utilizadas foram alocadas na pasta DADOS, neste mesmo reposit�
 
 Em ambos os casos os dados foram filtrados para FALSE no que tange a dados repetidos.
 
-Dados capturados em 30 de Junho de 2021. Importação dos dados feita em 30 de Junho de 2021 às 21:30:00.
+Dados de março de 2020 até junho de 2021. Importação dos dados feita em 30 de Junho de 2021 às 21:30:00.
 
 ---
 ## 2-Projeto
@@ -39,4 +39,4 @@ As conclusões que obtivemos a partir da análise dos dados serão apresentadas 
 ---
 ## 5-Continuidade e Considerações Finais
 
-O presente projeto ainda carece de análises mais profundas, que serão obitidas a partir da aquisição de outros dados em momente posterior. Também é importante mencionar que alguns ajustes ainda serão necessários, principalmente quanto à apresentação dos dados (visualização), o que esperamos seja realizado em breve. Sendo assim, manteremos este projeto em aberto para futuras alterações.
+O presente projeto ainda carece de análises mais profundas e mantêm-se em aberto para futuras alterações.
